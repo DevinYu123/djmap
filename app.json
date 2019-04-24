@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/map/map"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#ffffff",
+    "navigationBarTextStyle": "black",
+    "backgroundColor": "#ffffff",
+    "backgroundTextStyle": "light"
+  },
+  "debug": true,
+  "sitemapLocation": "sitemap.json"
+}
